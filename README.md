@@ -1,7 +1,7 @@
 # sales_dataset_analysis
 
     ## Project Overview: 
-    This project focuses on analyzing a sales dataset to extract meaningful insights and build a foundation for sales forecasting. The           analysis is performed using Python, SQL, and Power BI, covering data cleaning, exploration, and visualization.
+    This project focuses on analyzing a sales dataset to extract meaningful insights and build a foundation for sales forecasting. The analysis is performed using Python, SQL, and Power      BI, covering data cleaning, exploration, and visualization.
 
     ## Problem Statement:
     Businesses face difficulty in understanding sales trends, product performance, and regional insights from raw data. This project aims to analyze sales data and present insights for better decision-making.
@@ -30,7 +30,7 @@
     3. Enabled data-driven decision-making
 
     ## Conclusion:
-    This project demonstrates how combining Python, SQL, and Power BI can transform raw data into meaningful insights and support business     decision-making.
+    This project demonstrates how combining Python, SQL, and Power BI can transform raw data into meaningful insights and support business decision-making.
 
 
     
